@@ -1,0 +1,1 @@
+ g++ example_search.cpp -fopenmp -O3 -std=c++14 -fPIC -DNDEBUG -Wall -g -o example_search -march=native -mavx512vl 
